@@ -1,0 +1,13 @@
+{
+    "name": "copeito/grid",
+    "description": "Lists data in a grid",
+    "type": "library",
+    "authors": [
+        {
+            "name": "David Rey",
+            "email": "copeito@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
